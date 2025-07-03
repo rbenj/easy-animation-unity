@@ -3,8 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace EasyAnimation
-{
+namespace EasyAnimation {
 	/// <summary>
 	/// Simple animation system for easy playback of animation clips with callbacks and looping support.
 	/// </summary>

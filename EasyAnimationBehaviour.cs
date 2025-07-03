@@ -1,7 +1,6 @@
 using UnityEngine;
 
-namespace EasyAnimation
-{
+namespace EasyAnimation {
 	/// <summary>
 	/// State machine behaviour that notifies the EasyAnimation component when animation state exits.
 	/// </summary>
